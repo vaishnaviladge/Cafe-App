@@ -1,0 +1,158 @@
+.App {
+  text-align: center;
+}
+*{
+font-size: 25px;  
+}
+.frame{
+
+  margin:5%;
+  border-style:solid;
+  border-radius:19%;
+  border-style: groove;
+  width: 30%;
+  background-image: url('yellow.png');
+}
+.frame2{
+    margin:5%;
+    border-style:solid;
+    border-radius:19%;
+    border-style: groove;
+    width: 30%;
+    background-image: url('yellow.png');
+ }
+ .frame3{
+  margin:6%;
+  border-style:solid;
+  border-radius:19%;
+  border-style: groove;
+  width: 35%;
+  background-image: url('yellow.png');
+ }
+ 
+  .frame4{
+    margin:6%;
+    border-style:solid;
+    border-radius:19%;
+    border-style: groove;
+    width: 30%;
+    background-image: url('yellow.png');
+  }
+    .frame5{
+      margin:6%;
+      border-style:solid;
+      border-radius:19%;
+      border-style: groove;
+      width: 30%;
+      background-image: url('yellow.png');
+     }
+  
+ .btn{
+  margin:5%;
+  border-style:solid;
+  border-radius:15%;
+  width: 25%;
+  height: 20%;
+  background-color: #E8AC41;
+ }
+  body{
+   background-color:#FFD8A9;
+  }
+  .split {
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  .left {
+    left: 0;
+    background-color:white;
+    background-image: url('shade.jfif');
+    
+  }
+  .right {
+    right: 0;
+
+    background-image: url('orang.png');
+  }
+  .left1 {
+    left: 0;
+    background-color:white;
+    background-image: url('orang.png');
+    
+  }
+  .right1 {
+    right: 0;
+
+    background-image: url('shade.jfif');
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  a{
+    color:#FF0800;
+  }
+  .left-side {
+    text-align: left;
+  }
+  .forgot{
+  font-size: 5%;
+  }
+ .user{
+  height: 30%;
+  width:20%;
+    ;}
+   
+.para{
+  fontfamily:"Comic Sans MS";
+  font-size: 60;
+  }
+.social{
+  height: 7%;
+  width:7%;
+  }
+ 
+ 
+  .pframe{
+    margin:3%;
+    border-style:solid;
+    border-radius:19%;
+    width:30%;
+    background-image: url('yellow.png');
+    left: 0;
+    
+    }
+    .sframe{
+      margin:6%;
+      border-style:solid;
+      border-radius:19%;
+      border-style: groove;
+      width: 30%;
+      background-image: url('yellow.png');
+    }
+    
+    .s{
+      text-shadow: 3px 2px 3px red;
+    }
+    .nav{
+      background-color:#FFB100;
+      margin-top: 1%;
+      width: auto;
+      
+      }
+    .nav a{
+        color:#EF0D50;
+        text-decoration:none;
+        margin:6%;
+        
+        }
+.input::placeholder {
+  font-size:15px;
+}
